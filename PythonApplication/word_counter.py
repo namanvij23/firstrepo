@@ -1,3 +1,4 @@
+g"""The script is created by Naman Vij"""
 def count_words(filename):
     """
     Counts the number of words in a file.
